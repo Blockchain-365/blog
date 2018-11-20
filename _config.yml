@@ -256,3 +256,5 @@ busuanzi:
 #   enable: true
 #   url: ''
 #   text: ''
+
+theme: jekyll-theme-cayman
